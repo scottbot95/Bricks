@@ -1,2 +1,0 @@
-# Bricks
-Created with CodeSandbox
